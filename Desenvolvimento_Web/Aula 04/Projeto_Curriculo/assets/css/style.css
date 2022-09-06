@@ -1,0 +1,93 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tudo{
+    width: 60%;
+    border: solid 1px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+}
+
+.linha{
+    clear:both
+}
+
+h2{
+    color: #1f16c7;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+h4{
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+hr{
+    margin-bottom: 5px;
+    margin-top: 3px;
+    border-color: #1f16c7;
+}
+
+p{
+    margin-bottom: 0px
+}
+
+
+/* cabeçalho*/
+h1{
+    background-color: #1f16c7;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+/*foto e contato*/
+#foto{
+    width: 40%;
+    float: left;
+}
+#imgFoto{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+#contato{
+    width: 60%;
+    float:left;
+    text-align: left;
+    font-size: 20px;
+    line-height: 50px;
+
+}
+
+.tituloContato{
+    color: #1f16c7;
+    font-weight: bolder;
+}
+/*objetivos */
+#objetivos{
+    text-align: left;
+}
+/*formacao*/
+#formacao{
+    text-align: left;
+}
+/*hab/comp */
+#coluna1{
+    float: left;
+    width: 48%;
+}
+#coluna{
+    float: left;
+    width: 4%;
+}
+#coluna3{
+    float: left;
+    width: 48%;
+}
+
